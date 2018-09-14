@@ -1,2 +1,2 @@
 <h1>Hello World!</h1>
-<img src='/images/kitten.jpeg' alt='Earth'>
+<img src='/images/earth.jpg' alt='Earth'>
